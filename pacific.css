@@ -1,0 +1,136 @@
+header, hgroup, nav, footer, figure, figcaption, aside, section, article {
+	display: block;
+}
+body {
+	margin: 0;        
+    padding: 0; 
+	background-color: #00569f;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(ptrbackground.jpg); 
+	font-size: 0.8em;
+	
+}
+
+
+nav a:visited {
+	color: #344873;
+}
+nav a:hover {
+	color: #FFFFFF;
+}
+h1 {
+	margin-bottom: 0;
+	padding: 10px;
+
+}
+h2 {
+	color: #3399CC;
+	
+}
+h1,
+h2 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+#contact {
+	font-size: 90%;
+	padding: 10px;
+}
+dt {
+	
+	color: #000033;
+}
+
+
+#wrapper { 
+	width: 80%;
+	min-width: 600px;
+	margin: 0 0 0 210px;
+    background-color: #8ec9ea;
+	
+
+}
+
+header{
+	color: white;
+	background: url(sunset.jpg);
+	background-position: center;
+	background-size: cover;	
+
+	
+}
+
+#content{
+
+    
+	margin-left: 200px;
+	padding:10px 20px;
+	background-color:white;
+	
+	
+
+}
+
+nav{
+	width: 180px;
+	float: left;
+	padding: 10px;
+	background-color: #8ec9ea;
+
+	
+}
+
+#content img{
+	float: left;
+	margin-right: 15px;
+    margin-bottom: 5px;
+	width: 30%;
+
+	
+}
+
+nav ul{
+	list-style-type: none;
+	padding: 5px;
+	margin: 5px;
+	font-size:1.2em;
+
+	
+
+}
+nav a{
+	text-decoration: none;
+	color:#051c4c;
+	font-weight: bold;
+
+}
+
+
+
+#content ul {
+	list-style: url(marker.gif);
+	list-style-position: inside;  
+    margin: 0;                    
+    padding: 0;   
+	
+	
+
+
+}
+.resort{
+	color:#678c9f;
+	font-weight: bold;
+
+}
+
+
+
+
+footer {
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	background-color: white;
+	padding: 10px;
+	margin-left: 200px;
+	
+}
